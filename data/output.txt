@@ -1,0 +1,241 @@
+Account Summary Report
+===============================================================================================================================
+  Account                Owner              Manager         Fees          Return           Return %              Value
+    AC001       Bodker, Laurie     Hambling, Launce         75.0 $      300000.00 $            300.00          400000.00 $
+    AC002   Harrowell, Goddard    Van Bruggen, Otis         10.0 $       98110.77 $            184.85          213485.77 $
+    AC003         Capron, Earl    Van Bruggen, Otis          0.0 $           1.03 $            155.19           42389.52 $
+    AC004       Bodker, Laurie   Harrowell, Goddard        100.0 $       17500.00 $            145.30           47000.00 $
+    AC005         Capron, Earl    Van Bruggen, Otis          7.5 $      771131.17 $            391.46          788255.17 $
+    AC006     Hambling, Launce   Harrowell, Goddard          0.0 $           0.00 $            391.46               0.00 $
+                                                       -----------------------------------------------------------------
+                                          Totals:  $         192.50 $     1186742.97 $                         1491130.46 $
+Account Details
+================================================================================
+
+||================================================||
+	Pro Account AC001
+||================================================||
++-------+
+ Owner
++-------+
+Bodker, Laurie
+[lbodker0@nba.com, lbodker0@51.la]
+10 Goodland Court, Orlando, FL, 32891, USA
++-------+
+ Manager
++-------+
+Hambling, Launce
+[null]
+10 Goodland Court, Orlando, FL, 32891, USA
++-------------+
+ Beneficiary
++-------------+
+Capron, Earl
+[ecapron2@army.mil]
+838 Mcguire Alley, Quebec, ON, 113 ONG, Canada
++-------+
+ Assets
++-------+
+
+PA001	Mercedes Benz 300 SL		(Property)			       300.00%			$400000.0
+Cost Basis: purchased @ $100000.0 on 2021-04-05
+Value Basis: appraised @ $400000.0
+
++--------+
+ Totals
++--------+
+Total Value: 	 $           400000.00
+Cost Basis: 	 $           100000.00
+Total Account Fees: 	 $   75.00
+Total Return: 	 $         300000.00
+Total Return %: 	         300.00
+
+||================================================||
+	Noob Account AC002
+||================================================||
++-------+
+ Owner
++-------+
+Harrowell, Goddard
+[gharrowell1@ft.com, gharrowell1@zdnet.com]
+5 Calypso Way, Atlanta, GA, 30351, USA
++-------+
+ Manager
++-------+
+Van Bruggen, Otis
+[ovanbruggen3@cyberchimps.com, ovanbruggen3@amazon.de]
+845 Oak Valley Pass, Charlotte, NC, 28210, USA
++-------------+
+ Beneficiary
++-------------+
+Hambling, Launce
+[null]
+10 Goodland Court, Orlando, FL, 32891, USA
++-------+
+ Assets
++-------+
+
+BTCUSD	Bitcoin		(Crypto)			85.04%			$213485.77
+Cost Basis: 3.25 coins @ $35500.0 on 2015-03-01
+Value Basis: 3.25 coins @ $65694.5 less 1.25%
+
++--------+
+ Totals
++--------+
+Total Value: 	 $           613485.77
+Cost Basis: 	 $           215375.00
+Total Account Fees: 	 $               85.00
+Total Return: 	 $           398110.77
+Total Return %: 	               184.85
+
+||================================================||
+	Pro Account AC003
+||================================================||
++-------+
+ Owner
++-------+
+Capron, Earl
+[ecapron2@army.mil]
+838 Mcguire Alley, Quebec, ON, 113 ONG, Canada
++-------+
+ Manager
++-------+
+Van Bruggen, Otis
+[ovanbruggen3@cyberchimps.com, ovanbruggen3@amazon.de]
+845 Oak Valley Pass, Charlotte, NC, 28210, USA
++-------------+
+ Beneficiary
++-------------+
+Bodker, Laurie
+[lbodker0@nba.com, lbodker0@51.la]
+10 Goodland Court, Orlando, FL, 32891, USA
++-------+
+ Assets
++-------+
+
+GOOGL67	Google Inc		(Stock)			                   102.99%			$42389.52
+Cost Basis: 100.0 shares @ $411.57 on 2016-02-03
+Value Basis: 100.0 shares @ 41157.0
+
++--------+
+ Totals
++--------+
+Total Value: 	 $            655875.29
+Cost Basis: 	 $            256532.00
+Total Account Fees:$        85.00
+Total Return: 	 $          398111.80
+Total Return %: 	          155.19
+
+||================================================||
+	Noob Account AC004
+||================================================||
++-------+
+ Owner
++-------+
+Bodker, Laurie
+[lbodker0@nba.com, lbodker0@51.la]
+10 Goodland Court, Orlando, FL, 32891, USA
++-------+
+ Manager
++-------+
+Harrowell, Goddard
+[gharrowell1@ft.com, gharrowell1@zdnet.com]
+5 Calypso Way, Atlanta, GA, 30351, USA
++-------------+
+ Beneficiary
++-------------+
+Bodker, Laurie
+[lbodker0@nba.com, lbodker0@51.la]
+10 Goodland Court, Orlando, FL, 32891, USA
++-------+
+ Assets
++-------+
+
+PA002	Charizard Pokemon Card		(Property)			      59.32%			$47000.0
+Cost Basis: purchased @ $29500.0 on 1995-07-01
+Value Basis: appraised @ $47000.0
+
++--------+
+ Totals
++--------+
+Total Value: 	 $           702875.29
+Cost Basis: 	 $           286032.00
+Total Account Fees: 	 $   185.00
+Total Return: 	 $         415611.80
+Total Return %: 	         145.30
+
+||================================================||
+	Pro Account AC005
+||================================================||
++-------+
+ Owner
++-------+
+Capron, Earl
+[ecapron2@army.mil]
+838 Mcguire Alley, Quebec, ON, 113 ONG, Canada
++-------+
+ Manager
++-------+
+Van Bruggen, Otis
+[ovanbruggen3@cyberchimps.com, ovanbruggen3@amazon.de]
+845 Oak Valley Pass, Charlotte, NC, 28210, USA
++-------------+
+ Beneficiary
++-------------+
+Bodker, Laurie
+[lbodker0@nba.com, lbodker0@51.la]
+10 Goodland Court, Orlando, FL, 32891, USA
++-------+
+ Assets
++-------+
+
+ETHUSD	Ethereum		(Crypto)			                   4503.22%			$788255.17
+Cost Basis: 12.0 coins @ $1427.0 on 1995-07-01
+Value Basis: 12.0 coins @ $65694.5 less 2.75%
+
++--------+
+ Totals
++--------+
+Total Value: 	 $          1491130.46
+Cost Basis: 	 $          303156.00
+Total Account Fees: 	 $  192.50
+Total Return: 	 $        1186742.97
+Total Return %: 	        391.46
+
+||================================================||
+	Pro Account AC006
+||================================================||
++-------+
+ Owner
++-------+
+Hambling, Launce
+[null]
+10 Goodland Court, Orlando, FL, 32891, USA
++-------+
+ Manager
++-------+
+Harrowell, Goddard
+[gharrowell1@ft.com, gharrowell1@zdnet.com]
+5 Calypso Way, Atlanta, GA, 30351, USA
++-------------+
+ Beneficiary
++-------------+
+Capron, Earl
+[ecapron2@army.mil]
+838 Mcguire Alley, Quebec, ON, 113 ONG, Canada
++-------+
+ Assets
++-------+
+
+AAPL34	Apple		(Put)			                         0.00%			$0.00
+Cost Basis: 0.0 @ $0.0 on 2001-10-30
+Value Basis: 0.0 @ 29.0
+
++--------+
+ Totals
++--------+
+Total Value: 	 $          1491130.46
+Cost Basis: 	 $          303156.00
+Total Account Fees: 	 $  192.50
+Total Return: 	 $        1186742.97
+Total Return %: 	        391.46
