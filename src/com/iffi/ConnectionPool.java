@@ -29,8 +29,8 @@ public class ConnectionPool {
 	}
 	public static final String PARAMETERS = "?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
 
-	public static final String USERNAME = "username";
-	public static final String PASSWORD = "password";
+	public static final String USERNAME = "your username";
+	public static final String PASSWORD = "your password";
 	public static final String URL = "jdbc:mysql://cse.unl.edu/" + USERNAME + PARAMETERS;
 
 	public static final int NUM_CONNECTIONS = 20;
